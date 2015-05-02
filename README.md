@@ -18,6 +18,7 @@ Twitter Bootstrap API was used in order to ensure that all elements are actively
 Link: http://users.aber.ac.uk/anj42/cs22310_assignment/
 
 Screenshot of the prototype:
+![digital_preview](https://)
 
 
 
